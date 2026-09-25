@@ -59,7 +59,7 @@ export function Hero() {
             transition={{ duration: 0.7, delay: 0.1 }}
             className="text-balance text-4xl font-extrabold leading-[1.05] tracking-tight text-white sm:text-5xl lg:text-6xl"
           >
-            Residencia frente al mar de 410 m² de construcción con vistas panorámicas al Pacífico en tres niveles.
+            Residencia frente al mar de 410 m² de construcción sobre 182 m² de terreno con vistas panorámicas al Pacífico en tres niveles.
           </motion.h1>
 
           <motion.p
