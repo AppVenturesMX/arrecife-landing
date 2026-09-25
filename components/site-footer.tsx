@@ -12,7 +12,7 @@ export function SiteFooter() {
         </p>
         <p className="mt-4 text-sm text-slate-500">
           <a
-            href="/docs/AVISO-DE-PRIVACIDAD-MYPO-GLOBAL.pdf"
+            href="/docs/AVISO-DE-PRIVACIDAD-SISTEMA-SIS.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="underline underline-offset-2 hover:text-emerald-700"
@@ -21,11 +21,11 @@ export function SiteFooter() {
           </a>
         </p>
         <p className="mt-4 text-sm text-slate-500">
-          Este sitio y su contenido son propiedad y responsabilidad de Mypo
-          Global Business, S.A.P.I. de C.V.
+          Este sitio y su contenido son propiedad y responsabilidad de
+          Sistema SIS, S. de R.L. de C.V.
         </p>
         <p className="mt-4 text-sm text-slate-500">
-          © 2026 Mypo Global Business, S.A.P.I. de C.V. Todos los derechos
+          © 2026 Sistema SIS, S. de R.L. de C.V. Todos los derechos
           reservados.
         </p>
       </div>
