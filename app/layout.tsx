@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Residencia frente al mar en San Antonio del Mar, Tijuana | $380,000 USD — Arrecife SAM',
+  title: 'Residencia frente al mar en San Antonio del Mar, Tijuana | $380,000 USD — Casa Arrecife San Antonio del Mar',
   description:
     'Residencia de 410 m² de construcción sobre 182 m² de terreno en el fraccionamiento privado San Antonio del Mar, Tijuana. 4 recámaras, vistas al Pacífico en tres niveles, alberca y seguridad 24/7. Agenda tu visita con el asesor.',
   openGraph: {
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
       'Residencia de 410 m² de construcción sobre 182 m² de terreno en el fraccionamiento privado San Antonio del Mar, Tijuana. 4 recámaras, vistas al Pacífico en tres niveles. Agenda tu visita con el asesor.',
     type: 'website',
     locale: 'es_MX',
-    siteName: 'Arrecife SAM',
+    siteName: 'Casa Arrecife San Antonio del Mar',
     images: [
       {
         url: '/images/fachada.jpg',
