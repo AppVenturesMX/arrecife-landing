@@ -3,7 +3,7 @@ export function SiteFooter() {
     <footer className="border-t border-emerald-100 bg-slate-50 py-10">
       <div className="mx-auto max-w-3xl px-4 text-center sm:px-6">
         <span className="text-lg font-bold text-slate-800">
-          Arrecife SAM
+          Casa Arrecife San Antonio del Mar
         </span>
         <p className="mt-4 text-sm leading-relaxed text-slate-500">
           Precio expresado en dólares americanos (USD). Las fotografías son
