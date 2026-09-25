@@ -43,8 +43,8 @@ export function Espacios() {
             Espacios con carácter, en tres niveles
           </h2>
           <p className="mx-auto mt-3 max-w-2xl text-center text-slate-600">
-            410 m² de construcción con arquitectura mediterránea y vistas al
-            mar.
+            410 m² de construcción sobre 182 m² de terreno, con arquitectura
+            mediterránea y vistas al mar.
           </p>
         </Reveal>
 
