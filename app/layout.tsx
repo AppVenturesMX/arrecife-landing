@@ -58,6 +58,21 @@ export default function RootLayout({
     <html lang="es">
       <body className="antialiased">
         {children}
+        <script
+          src="https://isis-vercel.vercel.app/isis-widget.js"
+          data-api="https://isis-vercel.vercel.app"
+          data-avatar="https://isis-vercel.vercel.app/isis-avatar.webp"
+          data-brand="BienesRaícesHub"
+          data-whatsapp="5216641200764"
+          data-property="arrecife-san-antonio-del-mar"
+          data-catalog-url="https://www.bienesraiceshub.com/isis-catalog"
+          data-catalog-json="https://www.bienesraiceshub.com/isis-catalog-json"
+          data-alma-url="https://preaprueba.com"
+          data-emailjs-service="service_pz5aqzz"
+          data-emailjs-template="template_kyt29ma"
+          data-emailjs-key="wSSGo0XmY23CNICP4"
+          defer
+        />
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
     </html>
