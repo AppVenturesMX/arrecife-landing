@@ -3,9 +3,18 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Residencia frente al mar en San Antonio del Mar, Tijuana | $380,000 USD — Casa Arrecife San Antonio del Mar',
+  title:
+    'Residencia frente al mar en San Antonio del Mar, Tijuana | $380,000 USD — Casa Arrecife San Antonio del Mar',
   description:
     'Residencia de 410 m² de construcción sobre 182 m² de terreno en el fraccionamiento privado San Antonio del Mar, Tijuana. 4 recámaras, vistas al Pacífico en tres niveles, alberca y seguridad 24/7. Agenda tu visita con el asesor.',
+  // Esta landing es una versión de campaña (ads, WhatsApp) de la misma
+  // propiedad que ya vive en
+  // bienesraiceshub.com/propiedad/arrecife-san-antonio-del-mar. El
+  // canonical marca al Hub como la versión preferida para Google. Ver
+  // claude/estrategia-seo-google-oct-2026.md, sección 1.
+  alternates: {
+    canonical: 'https://www.bienesraiceshub.com/propiedad/arrecife-san-antonio-del-mar',
+  },
   openGraph: {
     title: 'Residencia frente al mar en San Antonio del Mar, Tijuana | $380,000 USD',
     description:
