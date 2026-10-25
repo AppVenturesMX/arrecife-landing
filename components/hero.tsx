@@ -129,7 +129,7 @@ export function Hero() {
               alt="Fachada de la residencia con muro de piedra volcánica y acceso principal"
               className="aspect-[4/3] w-full object-cover"
             />
-            <PhotoWatermark />
+            <PhotoWatermark variant="full" />
           </div>
         </motion.div>
       </div>
